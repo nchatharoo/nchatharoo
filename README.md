@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 👨‍👩‍👧‍👦 Husband and father of two.
 
 #### Find me around the web 🌎:
-- 📫 How to reach for a professional me <a href="https://www.linkedin.com/in/nadheer-chatharoo-98508585/">LinkedIn</a>
-- 😎 And a cooler me <a href="https://twitter.com/NadheerC">Twitter</a>
+- 📫 How to reach the professional me <a href="https://www.linkedin.com/in/nadheer-chatharoo-98508585/">LinkedIn</a>
+- 😎 And the cooler me <a href="https://twitter.com/NadheerC">Twitter</a>
