@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🏢 I'm currently working full-time at **<a href="https://appscho.com/">AppScho</a>**
 - 🥳 Graduated: Finished the iOS Lead Essentials program at **<a href="https://www.essentialdeveloper.com">Essential Developer</a>**
 - 📖 Currently reading: "Combine, Asynchronous programming in Swift" by the raywenderlich Tutorial Team, "Dependency Injection" by Mark Seemann
-- 💜 Interests: Video games 🎮, Football ⚽, and Tech enthusiast 👨‍💻.
+- 💜 Interests: Video games 🎮, Football ⚽, Movies 📺 and Tech enthusiast 👨‍💻.
 - 👨‍👩‍👧‍👦 Husband and father of two.
 
 #### Find me around the web 🌎:
