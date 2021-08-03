@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 #### I'm an iOS Developer based in Saint-Denis, France.
 - 🏢 I'm currently working full-time at **<a href="https://appscho.com/">AppScho</a>**
 - 🥳 Graduated: Finished the iOS Lead Essentials program at **<a href="https://www.essentialdeveloper.com">Essential Developer</a>**
-- 📖 Currently reading: "Domain-Driven Design
-Tackling Complexity in the Heart of Software" by Eric Evans, "Dependency Injection" by Mark Seemann
 - 💜 Interests: Video games 🎮, Football ⚽, Movies 📺 and Tech enthusiast 👨‍💻.
 - 👨‍👩‍👧‍👦 Husband and father of two.
 
