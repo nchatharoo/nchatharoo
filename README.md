@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### I'm an iOS Developer based in Saint-Denis, France.
-- 🏢 I'm currently working full-time at **<a href="https://appscho.com/">AppScho</a>**
+- 🏢 I’m currently working on some personal projects mostly on the cybersecurity field.
 - 💜 Interests: Video games 🎮, Football ⚽, Movies 📺 and Tech enthusiast 👨‍💻.
 - 👨‍👩‍👧‍👦 Husband and father of two.
 
