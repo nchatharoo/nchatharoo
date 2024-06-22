@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### I'm an iOS Developer based in Saint-Denis, France.
-- 🏢 I’m currently working on some personal projects mostly on the cybersecurity field.
+- 🏢 Currently, I’m delving into personal projects with a focus on cybersecurity, exploring areas such as penetration testing and forensic analysis.
 - 💜 Interests: Video games 🎮, Football ⚽, Movies 📺 and Tech enthusiast 👨‍💻.
 - 👨‍👩‍👧‍👦 Husband and father of two.
 
