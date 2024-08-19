@@ -1,33 +1,29 @@
-### Bonjour, I'm Nadheer 👋
+# Bonjour, my name is Nadheer 👋
 
-I'm a dedicated iOS Developer in France, currently transitioning into the exciting field of cybersecurity. With over 12 years of experience in mobile development, I've honed skills in programming, project management, and team collaboration. My passion for technology and security drives me to explore and contribute to the cybersecurity domain.
+I'm an iOS developer based in France. With over 12 years of experience in mobile development, I have honed my skills in programming, project management and team collaboration. My passion for technology and security has led me to explore the field of cybersecurity. Eventually, I'd like to work as a digital forensics specialist. It's a long way off, but I'm motivated!
 
-💼 Professional Background
+## 💼 Professional background
 
-  - iOS Development: Extensive experience in developing mobile applications, with a strong focus on Swift, Objective-C, and Python.
-  - Project Management: Successfully managed projects from conception to delivery, ensuring high-quality and timely outcomes.
-  - Team Collaboration: Proven ability to work closely with cross-functional teams to deliver robust software solutions.
+- **iOS development**: Extensive experience in mobile app development, with a strong focus on Swift, Objective-C and Python.
+- **Project Management**: I have successfully managed projects from conception to delivery, guaranteeing high quality and on-time results.
+- **Team collaboration**: I have proven my ability to work closely with multidisciplinary teams to deliver robust software solutions.
 
-🛠️ Current Focus
+## 🛠️ Current objectives
 
-I'm currently working on:
+I'm currently working on personal projects in the field of cybersecurity, including scripting and penetration testing using tools like Python, Bash and Rust.
 
-  Personal projects in the cybersecurity field, including scripting and penetration testing using tools like Python, Bash and Rust.
-  
-  Expanding my knowledge through certifications and hands-on experience, including practical exercises from [root-me.org](https://www.root-me.org/) 
+The aim is to prepare myself for my bootcamp, which will take place from September 2024 within Jedha.
 
-📁 Featured Projects
+## 📁 Flagship projects
 
-  - Python Scripts: A collection of scripts developed while studying "Black Hat Python," focusing on automating penetration testing tasks. [python_for_cybersecurity](https://github.com/nchatharoo/python_for_cybersecurity)
-  
-  - Rust Scripts: A collection of scripts developed while studying "Black Hat Rust," focusing on creating multiple tools. 
-[rust_for_cybersecurity](https://github.com/nchatharoo/rust_for_cybersecurity)
+- **Python scripts**: A collection of scripts developed during the "Black Hat Python" study, focused on automating penetration testing tasks. [python_for_cybersecurity](https://github.com/nchatharoo/python_for_cybersecurity)
+- Rust project** : A scanner developed during the "Black Hat Rust" study, focused on detecting secrets such as API keys in repositories. [rust_for_cybersecurity](https://github.com/nchatharoo/rust_for_cybersecurity)
 
-🌍 Let's Connect
+## 🌍 Keep in touch
 
-  LinkedIn: [Connect with me](https://www.linkedin.com/in/nadheer-chatharoo-98508585/)
-  Twitter: [Follow me](https://twitter.com/NadheerC)
+- LinkedIn](https://www.linkedin.com/in/nadheer-chatharoo-98508585/)
+- [Twitter](https://twitter.com/NadheerC)
 
-⚡ Fun Fact
+## ⚡ Anecdote
 
-I'm a tech enthusiast, an avid gamer, and a proud father of two!
+I'm a technology enthusiast, a video game player and a proud father of two!
