@@ -20,7 +20,7 @@ I'm currently working on:
 
   - Python Scripts: A collection of scripts developed while studying "Black Hat Python," focusing on automating penetration testing tasks. [python_for_cybersecurity](https://github.com/nchatharoo/python_for_cybersecurity)
   
-  - Rust Scripts: A collection of scripts developed while studying "Black Hat Rust," focusing on automating penetration testing tasks. 
+  - Rust Scripts: A collection of scripts developed while studying "Black Hat Rust," focusing on creating multiple tools. 
 [rust_for_cybersecurity](https://github.com/nchatharoo/rust_for_cybersecurity)
 
 🌍 Let's Connect
