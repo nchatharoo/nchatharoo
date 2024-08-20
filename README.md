@@ -21,7 +21,7 @@ The aim is to prepare myself for my bootcamp, which will take place from Septemb
 
 ## 🌍 Keep in touch
 
-- LinkedIn](https://www.linkedin.com/in/nadheer-chatharoo-98508585/)
+- [LinkedIn](https://www.linkedin.com/in/nadheer-chatharoo-98508585/)
 - [Twitter](https://twitter.com/NadheerC)
 
 ## ⚡ Anecdote
