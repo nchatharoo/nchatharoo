@@ -10,7 +10,7 @@ I'm an iOS developer based in France. With over 12 years of experience in mobile
 
 ## 🛠️ Current objectives
 
-I'm currently working on personal projects in the field of cybersecurity, including scripting and penetration testing.
+I'm currently in a bootcamp, learning cybersecurity concepts and techniques.
 
 ## 🌍 Keep in touch
 
