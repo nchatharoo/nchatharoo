@@ -4,7 +4,7 @@ I'm an iOS developer based in France. With over 12 years of experience in mobile
 
 ## 💼 Professional background
 
-- **iOS development**: Extensive experience in mobile app development, with a strong focus on Swift, Objective-C and Python.
+- **iOS development**: Extensive experience in mobile app development, with a strong focus on Swift and Objective-C.
 - **Project Management**: I have successfully managed projects from conception to delivery, guaranteeing high quality and on-time results.
 - **Team collaboration**: I have proven my ability to work closely with multidisciplinary teams to deliver robust software solutions.
 
