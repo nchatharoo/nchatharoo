@@ -1,6 +1,6 @@
 # Bonjour, my name is Nadheer 👋
 
-I'm an iOS developer based in France. With over 12 years of experience in mobile development, I have honed my skills in programming, project management and team collaboration. My passion for technology and security has led me to explore the field of cybersecurity.
+I'm an iOS developer based in France. With over 12 years of experience in mobile development, I have honed my skills in programming, project management and team collaboration.
 
 ## 💼 Professional background
 
